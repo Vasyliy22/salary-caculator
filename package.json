@@ -1,6 +1,6 @@
 {
   "name": "salary-calculator",
-  "homepage": "https://myapp-salary-calculator.com",
+  "homepage": "https://salary-calculator.vercel.app",
   "version": "0.1.0",
   "private": false,
   "scripts": {
